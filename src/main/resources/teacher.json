@@ -1,0 +1,22 @@
+[
+  {
+    "teacherName": "Alice",
+    "subject": "OPRO"
+  },
+  {
+    "teacherName": "Bob",
+    "subject": "EPRO"
+  },
+  {
+    "teacherName": "Jane",
+    "subject": "Mathematik"
+  },
+  {
+    "teacherName": "John",
+    "subject": "Deutsch"
+  },
+  {
+    "teacherName": "Grace",
+    "subject": "Englisch"
+  }
+]

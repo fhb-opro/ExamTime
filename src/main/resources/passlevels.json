@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Deutsch",
+    "pass level": 50,
+    "evaluation": "passed"
+  },
+  {
+    "subject": "Deutsch",
+    "pass level": 70,
+    "evaluation": "success"
+  },
+  {
+    "subject": "Deutsch",
+    "pass level": 90,
+    "evaluation": "with award"
+  },
+  {
+    "subject": "OPRO",
+    "pass level": 60,
+    "evaluation": "passed"
+  },
+  {
+    "subject": "OPRO",
+    "pass level": 80,
+    "evaluation": "success"
+  },
+  {
+    "subject": "OPRO",
+    "pass level": 100,
+    "evaluation": "award"
+  },
+  {
+    "subject": "EPRO",
+    "pass level": 50,
+    "evaluation": "passed"
+  },
+  {
+    "subject": "EPRO",
+    "pass level": 70,
+    "evaluation": "success"
+  },
+  {
+    "subject": "EPRO",
+    "pass level": 90,
+    "evaluation": "with award"
+  },
+  {
+    "subject": "Mathematik",
+    "pass level": 50,
+    "evaluation": "passed"
+  },
+  {
+    "subject": "Mathematik",
+    "pass level": 80,
+    "evaluation": "award"
+  },
+  {
+    "subject": "Englisch",
+    "pass level": 66,
+    "evaluation": "passed"
+  }
+]

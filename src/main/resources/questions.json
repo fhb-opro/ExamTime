@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "OPRO",
+    "question": "Is polymorphism possible in Java?",
+    "answer": true
+  },
+  {
+    "subject": "OPRO",
+    "question": "Does Java alow multiple inheritance?",
+    "answer": false
+  },
+  {
+    "subject": "Deutsch",
+    "question": "Mit \"wessen\" fragt man nach dem Dativ",
+    "answer": false
+  },
+  {
+    "subject": "Deutsch",
+    "question": "Verben werden dekliniert.",
+    "answer": false
+  },
+  {
+    "subject": "OPRO",
+    "question": "After an error the application can be continued",
+    "answer": true
+  },
+  {
+    "subject": "OPRO",
+    "question": "Collections can hold primitives.",
+    "answer": false
+  },
+  {
+    "subject": "Deutsch",
+    "question": "Deutsch ist germanischen Ursprungs",
+    "answer": true
+  },
+  {
+    "subject": "Mathematik",
+    "question": "x² wird duch eine Gerade dargestellt",
+    "answer": false
+  },
+  {
+    "subject": "Mathematik",
+    "question": "Der Satz von Vietà behandelt quadratische Gleichungen",
+    "answer": true
+  },
+  {
+    "subject": "Deutsch",
+    "question": "Es gibt regelmäßige und unregelmäßige Adjektive.",
+    "answer": true
+  },
+  {
+    "subject": "Mathematik",
+    "question": "Im Fall tan(α) = 90° entsteht kein Dreieck.",
+    "answer": true
+  },
+  {
+    "subject": "EPRO",
+    "question": "Primitives reside on the heap",
+    "answer": false
+  },
+  {
+    "subject": "EPRO",
+    "question": "Files can be read with a buffer",
+    "answer": true
+  },
+  {
+    "subject": "EPRO",
+    "question": "Methods and variables start with a lowercase letter",
+    "answer": true
+  },
+  {
+    "subject": "EPRO",
+    "question": "Clean Code Rules should be applied in procedural code.",
+    "answer": false
+  },
+  {
+    "subject": "Mathematik",
+    "question": "tangens=cosinus/sinus",
+    "answer": false
+  }
+]

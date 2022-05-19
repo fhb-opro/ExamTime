@@ -1,0 +1,17 @@
+subject,question,answer
+OPRO,Is polymorphism possible in Java?,true
+OPRO,Does Java allow multiple inheritance?,false
+Deutsch,Mit "wessen" fragt man nach dem Dativ,false
+Deutsch,Verben werden dekliniert.,false
+OPRO,After an error the application can be continued,true
+OPRO,Collections can hold primitives.,false
+Deutsch,Deutsch ist germanischen Ursprungs,true
+Mathematik,x² wird duch eine Gerade dargestellt,false
+Mathematik,Der Satz von Vietà behandelt quadratische Gleichungen,true
+Deutsch,Es gibt regelmäßige und unregelmäßige Adjektive.,true
+Mathematik,Im Fall tan(α) = 90° entsteht kein Dreieck.,true
+EPRO,Primitives reside on the heap,false
+EPRO,Files can be read with a buffer,true
+EPRO,Methods and variables start with a lowercase letter,true
+EPRO,Clean Code Rules should be applied in procedural code.,false
+Mathematik,tangens=cosinus/sinus,false
